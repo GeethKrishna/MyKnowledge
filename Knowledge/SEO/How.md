@@ -72,3 +72,11 @@
 3. One major thing to keep in mind is to not to try to trick the system by paying some third party organizations to get monthly x number of links to your page to increase your rankings. If found the penalty can be dropping you from the ranking or even blocking your domain by flagging you as spam or fraud.
 4. There are 2 types of links here:
 	1. Internal linking: this is the links that you do inside your own site to external other sites or your other pages, this will help the search engine to understand the theme, content, the connection of you content to all the other content in the web. the links that you do when using other site's information or quoting other site's is call **Contextual linking**. 
+
+## Measuring your SEO
+
+1. First make sure that a web analytics service is linked to your page, it can be any like google analytics or adobe analytics and configure it properly.
+2. Define proper KPI's that you can use to measure your SEO success, they can be anything like amount of traffic to the site, the number of new signups or even downloads. Decide on any few KPI's that you feel are important to your business.
+3. And not only the web analytics we should also an eye on you web vital so that we can make sure that the website performance is not the reason for any decline in our KPI's.
+4. Also keep checking the rankings of your chosen keywords that you've optimized your page for, if any any keyword has gone off the trend do not hesitate to focus on a new keyword that is in trend and to change your content around it.
+5. Use AI chatbots for measuring and helping you in this SEO journey.
