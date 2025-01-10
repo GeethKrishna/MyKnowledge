@@ -1,0 +1,14 @@
+1. What is SEO ?
+	Search Engine Optimization (SEO) is the process of making improvements on and off our website to gain more exposure in search engine results like google and bing.
+2. What is the role of Search Engines ?
+	Search engines try to understand all the content in the internet and quicky find **relative** and **authoritative** content that is ultimately useful to the users who are searching in the search engine.
+3. What is relevance ?
+	The relevance of a page with a search string is determined by various factors, but a few factors are:
+	- How's the pages content is written.
+	- How's the page is implemented in code.
+	- How's the page is connected/linked to other pages.
+	And many other factors are considered and an Index is made using which it can rank the page using some complex algorithms internally and give me a sorted page according to relevance to the user in fraction of seconds.
+4. What is authoritative ?
+	The authority of page is very important as anyone from anywhere can post about anything on the internet, So why should the search engine should trust your content and show it to it's valuable customers who can be effected by the content that you've written. One way search engines determine authority is by evaluating what other pages have to say about the content in your page. The is measured and quantified through the links pointing to your content, referencing to your page or reviews about your content, etc. We can that the links are like an vote in the internet, A webpage linking/directing to your page is just like saying that "I trust your content enough that I'm willing to reference your page and even re-direct my traffic to your site". But this doesn't mean that this is some follower count contest, here the quality and relevance of the link that is pointing to your page matters. This means that the search engine is more likely to trust a link from a well respected or industry related site like an industry leading blog, non-profits or government official pages that are related to your field of work i.e., quality of the site that is linking to your site and another thing is that the linking happening in the source site should be in a relevant manner, i.e., it cannot be like you link a ice cream shop cite in your react development course page. These kind of un relevant links will decrease your credibility i.e., authority of your page and thus your rankings.
+5. What is a SERP ?
+	Search Engine Result Pages (SERP's) are the thing that we see after we click search in the search bar. On the top it has sponsored listing which are ad's that are paid by the companies that host those pages which is optional on a SERP. Next comes all the results that the search engine found for the search string that the user gave to the search engine in a very specific order. 
