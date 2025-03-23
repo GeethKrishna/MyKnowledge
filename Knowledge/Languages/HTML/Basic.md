@@ -1,0 +1,6 @@
+- HTML (**Hyper Text Markup Language**) is the backbone of the web, it defines the basic structure and meaning of any webpage. 
+- _Hypertext_  refers to the links that connects one web page to another (can be within a website or across multiple sites). Links are fundamental to web thus **Hyper Text Markup Language**.
+- HTML uses _"markup"_ (some conventions) to annotate text, images or any other content so that browser understands what and how to render it on screen. This markup includes some special elements such as `<head>, <body>, <li>, <span>`, and many more. 
+- These HTML elements are set off from other normal content by using *tags* which is an element keyword and attributes inside these `< and >` . These tags are basically the start and end of an element. Some tags don't need an closing tag, they are called _self-closing tags_ ex: `<img>`
+- So, an element is `<p> Hii </p>` and `<p> , </p>` are the tags of the element.
+- Fun fact: the name of the element inside the tag is **case-insensitive** which mean we can write the elements in any way we like but it's said to use only lower-case while writing the elements.

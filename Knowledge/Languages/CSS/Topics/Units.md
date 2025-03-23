@@ -1,0 +1,3 @@
+```
+<Section2 className="gj-px-screen-edge-constrained lg:tw-my-10 tw-my-5" /> <Section3 className="gj-px-screen-edge-constrained max-md:!tw-pr-0 lg:tw-my-10 tw-my-5" /> <Section11 className="gj-px-screen-edge-constrained tw-my-10 md:tw-my-20" /> <Section12 className="gj-px-screen-edge-constrained lg:tw-my-10 tw-my-5" /> <Section6 className="gj-px-screen-edge-constrained lg:tw-my-10 tw-my-5" /> <Section10 className="gj-px-screen-edge-constrained lg:tw-mt-16 tw-mt-10" /> <Section8 className="gj-px-screen-edge-constrained lg:tw-mb-10 tw-mb-5 scrollbar" /> <Section5 className="gj-px-screen-edge-constrained lg:tw-my-10 tw-my-5" /> <Section9 className="gj-px-screen-edge-constrained tw-mt-10 tw-pb-14 md:tw-pb-20" />
+```

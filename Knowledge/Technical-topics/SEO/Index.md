@@ -1,4 +1,4 @@
-- [[Basic]]
+- [[Knowledge/Technical-topics/SEO/Basic]]
 - [[Why]]
 - [[How]]
 

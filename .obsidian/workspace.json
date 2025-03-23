@@ -4,24 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "7c376f7343323bcd",
+        "id": "d9cc02adfe2dd1b8",
         "type": "tabs",
         "children": [
           {
-            "id": "cabb8aa54ebfdc38",
+            "id": "26b955cadc4032a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/SEO/How.md",
+                "file": "Ottopilot Normalization.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "How"
+              "title": "Ottopilot Normalization"
+            }
+          },
+          {
+            "id": "0fd1039d3b279685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "capstone/actual paper.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "actual paper"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "6ec00efa96a8a0ea",
@@ -162,26 +180,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cabb8aa54ebfdc38",
+  "active": "0fd1039d3b279685",
   "lastOpenFiles": [
-    "Knowledge/SEO/Index.md",
-    "Knowledge/SEO/How.md",
-    "Knowledge/SEO/Basic.md",
-    "Knowledge/SEO/Why.md",
-    "Knowledge/GoLang/Index.md",
-    "Knowledge-Index.md",
-    "Knowledge/GoLang/Resources/Learning Sequence.md",
-    "SEO.md",
-    "Knowledge/SEO",
-    "Knowledge",
-    "Report on MutaCryptor Lite.md",
-    "Knowledge/GoLang/Resources",
-    "GoLang/basicSyntax/variables.md",
-    "GoLang/basicSyntax",
-    "create a link.md",
-    "Knowledge/GoLang",
-    "Unit - 4.md",
-    "Welcome.md",
+    "capstone/layout.md",
+    "capstone/Overview.md",
+    "capstone/todo.md",
+    "capstone/actual paper.md",
+    "Ottopilot Normalization.md",
+    "capstone",
+    "TODO.md",
+    "Knowledge/Tools-Softwares/Spring/Inversion of control.md",
+    "Knowledge/Tools-Softwares/Spring/Spring vs Spring boot.md",
+    "Knowledge/Tools-Softwares/Spring/History.md",
+    "Knowledge/Ampere/first KT.md",
+    "Knowledge/Tools-Softwares/Spring",
+    "Knowledge/Languages/Java",
+    "Knowledge/Languages/HTML/Index.md",
+    "Knowledge/Languages/HTML/Topics/Character entities.md",
+    "Knowledge/Ampere",
+    "Knowledge/Languages/HTML/Topics/Non-breaking space.md",
+    "Knowledge/Languages/CSS/Topics/Units.md",
+    "Knowledge/Technical-topics/SEO/Basic.md",
+    "Knowledge/Languages/CSS/Basic.md",
+    "Knowledge/Languages/CSS/Index.md",
+    "Knowledge/Languages/CSS/Topics",
+    "Knowledge/Languages/HTML/Resources.md",
+    "Knowledge/Languages/HTML/Elements/img.md",
+    "Knowledge/Languages/HTML/Elements/script.md",
+    "Knowledge/Languages/HTML/Topics/data- attribute.md",
+    "Knowledge/Languages/HTML/Elements/noscript.md",
+    "Knowledge/Languages/HTML/Elements/form.md",
+    "Knowledge/Languages/HTML/Topics/Semantic elements.md",
+    "Knowledge/Languages/HTML/Topics/Non-breaking hyphen.md",
+    "Knowledge/Languages/HTML/Topics/Global attributes.md",
+    "Knowledge/Languages/HTML/Topics/Semantic elements",
+    "Knowledge/Languages/HTML/Elements",
+    "Knowledge/Languages/HTML/Topics",
+    "Knowledge/Languages/CSS/Tools-Frameworks",
+    "Knowledge/Technical-topics",
     "Untitled.canvas"
   ]
 }

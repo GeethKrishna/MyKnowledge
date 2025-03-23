@@ -1,0 +1,10 @@
+- Imagine you have to build a toy house, but don't know how to build or what to use to build the house. 
+- Here comes **Lego** which provides you with all the blocks required to build an house how ever you like.
+- Just like Lego, Spring is a java based framework which provides all the necessary building blocks to build an java application. It provides tools to manage security, databases, web capabilities, etc., which makes building an java application simple rather than writing code for every thing from scratch.
+- Spring also gives you an structured way to organize your code to connect different parts of your application easily.
+- It follows the principles of **Inversion of control** and **Dependency Injection** which means it manages objects instead of you manually creating them. This makes the development faster and more more focused on business logic rather than on other non related parts.
+- But, still building an house with Lego bricks is quite hard and time taking as we have to gather all the required and correct parts and then arrange them in a order to get our house. 
+- So, here comes **Spring boot** which is like an Lego house kit which has the bigger and complex parts already done and we should only connect the pieces to get our desired house.
+- You can still customize it but we no longer need to focus and spends our time smaller things like finding the right pieces or how to connect them.
+- Basically, Spring boot is an framework built on top of spring and it handles all the configurations, setting up server, providing sensible defaults, etc., that makes the development much faster and simpler.
+- So, Spring boot is an layer above Spring that removes the boiler plate code and speeds up the development.

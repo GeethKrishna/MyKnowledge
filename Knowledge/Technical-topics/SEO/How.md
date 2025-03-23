@@ -67,7 +67,7 @@
 
 ## Links
 
-1. One of most important aspects of SEO is **Links**, specifically **Backlinks**, Cause search engines think each link as a *vote of confidence* for what ever the link points to. The more the number of backlinks (links that point to this page) the more the search engine trusts the page i.e., **authority**. more about it in - [[Basic]] 4th point.
+1. One of most important aspects of SEO is **Links**, specifically **Backlinks**, Cause search engines think each link as a *vote of confidence* for what ever the link points to. The more the number of backlinks (links that point to this page) the more the search engine trusts the page i.e., **authority**. more about it in - [[Knowledge/Technical-topics/SEO/Basic]] 4th point.
 2. So, one minor way to optimize this Linking is to have a anchor tag that is descriptive of the page you point to rather than having anchor texts be unrelated like "click me", "visit", etc., this tip if followed will give the search engine some context and will give the linking more credibility.
 3. One major thing to keep in mind is to not to try to trick the system by paying some third party organizations to get monthly x number of links to your page to increase your rankings. If found the penalty can be dropping you from the ranking or even blocking your domain by flagging you as spam or fraud.
 4. There are 2 types of links here:

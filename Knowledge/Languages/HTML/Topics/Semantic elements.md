@@ -1,0 +1,8 @@
+- In programming, **Semantics** refers to meaning of a piece of code. For ex: "What effect does this line of JavaScript have ?" or "What is the purpose of this HTML element?" rather than "How does the element look?" or "How does the JavaScript code run?", etc.
+- So, a Semantic element clearly describes what it is to the browser and to the developers just by seeing it.
+- All the elements in our HTML code can be just `div` tags but when reading the code it does really not make any sense or rather _descriptive_.
+- So, there are some elements which are mostly only for grouping and semantic purpose and they really don't have any other purpose. Some examples are `<header>, <footer>, <nav>, <aside>, <section>` or even `<h1>` as this tells us that it is the heading of the page which also can be done with `<span> or <p>` elements but it will make the code meaning less un-readable i.e., semantic value is not present.
+- **Why Use Semantic HTML Tags?**
+	- **Accessibility:** Semantic elements make web pages more accessible. Screen readers and other assistive technologies can interpret the structure and navigate the content more efficiently.
+	- **SEO:** Better structured data leads to better SEO. Search engines prioritize well-structured content that uses semantic elements correctly, as it’s easier to index.
+	- **Maintainability:** Semantic HTML helps create a logically structured document, which is easier to read and maintain.
