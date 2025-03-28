@@ -1,3 +1,13 @@
+
+
+Name: Ottopilot Dev
+
+Client ID: 3b244fe7-1cbe-4d63-bfb0-8eafeb0b7346
+
+Client Secret: Us2vGc8oYT6qWnrtluvlgxCkvrELTydq
+
+
+
 #### Current
 {
     name: ...
