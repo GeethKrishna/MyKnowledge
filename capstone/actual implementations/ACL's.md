@@ -125,3 +125,27 @@ $env:KAFKA_OPTS="-Djava.security.auth.login.config=C:\kafka\config\kafka_jaas.co
 2.
  .\bin\windows\kafka-server-start.bat .\config\server.properties
 ```
+
+command to give all permissions to "super":
+client.properties:
+```
+security.protocol=SASL_PLAINTEXT
+sasl.mechanism=PLAIN
+```
+
+kafka_client_jass.conf:
+```
+KafkaClient {
+    org.apache.kafka.common.security.plain.PlainLoginModule required
+    username="super"
+    password="admin-secret";
+
+};
+```
+
+commands:
+```
+$env:KAFKA_OPTS="-Djava.security.auth.login.config=C:\kafka\config\kafka_client_jaas.conf"
+
+bin\windows\kafka-acls.bat --bootstrap-server localhost:9092 --add --allow-principal "User:super" --operation Create --operation Describe --operation Write --topic "*" --command-config C:\kafka\config\client.properties
+```

@@ -279,7 +279,7 @@ For organizations requiring **fine-grained control** over access permissions, Ka
 
 1. **User Authentication**
 	- The client **authenticates** using **SSL/TLS, SASL (SCRAM, OAuth, Kerberos), or Delegation Tokens**.
-	- Kafka **extracts the authenticated principal** (user/service identity).
+	- Kafka **extracts the authenticated principal** (user/service identity) and forwards it to and SASLCallbackHandler plugin which will query the credentials from the db and verifies the request
 2. **Authorization Request Sent to Custom Authorizer**
 	- Kafka **forwards the access request** (user, resource, and operation) to the **custom authorizer plugin** implemented via the `kafka.security.authorizer.Authorizer` interface.
 3. **Policy Lookup & Decision Logic**
